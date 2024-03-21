@@ -6,3 +6,5 @@ function printSum(string1, string2) {
     console.log(sum);
 
 }
+
+console.log(printSum)
